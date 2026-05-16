@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Riya Aggarwal</h1>
 <h3 align="center">A Aspirant AI Developer from Meerut, India </h3>
 
@@ -47,10 +46,10 @@
 
 ## 🏆 Certifications & Achievements
 
-✔ AWS Academy Cloud Foundations  :contentReference[oaicite:1]{index=1}  
-✔ Google Cloud Computing Foundations  :contentReference[oaicite:2]{index=2}  
-✔ Microsoft Azure OpenAI & Machine Learning Fundamentals  :contentReference[oaicite:3]{index=3}  
-✔ Cisco Introduction to Cybersecurity  :contentReference[oaicite:4]{index=4}  
+✔ AWS Academy Cloud Foundations  
+✔ Google Cloud Computing Foundations    
+✔ Microsoft Azure OpenAI & Machine Learning Fundamentals   
+✔ Cisco Introduction to Cybersecurity   
 
 ---
 
@@ -85,4 +84,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riya-aggarwal31072003&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
-```
