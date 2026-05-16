@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 
 ✨ Passionate about Artificial Intelligence and innovative technologies  
-🎓 B.Tech CSE Student at MIET, Meerut  :contentReference[oaicite:0]{index=0}  
+🎓 B.Tech CSE Student at MIET, Meerut   
 🚀 Exploring AI, Machine Learning & Full Stack Development  
 💡 Love building real-world projects that solve everyday problems  
 🌱 Currently learning advanced AI tools and cloud technologies  
@@ -77,9 +77,17 @@
 
 ---
 
-## 💫 Quote
+## ✍️ Dev Quote
 
-> *"Code. Learn. Build. Repeat."*
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 📊 Contribution Graph
+
+[![Riya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=riya-aggarwal31072003&theme=tokyo-night)](https://github.com/riya-aggarwal31072003)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riya-aggarwal31072003&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
