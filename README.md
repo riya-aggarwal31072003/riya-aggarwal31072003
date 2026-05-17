@@ -46,10 +46,10 @@
 
 ## 🏆 Certifications & Achievements
 
-✔ AWSCloudPractitioner (CLF-CO2) 
-✔ MicrosoftAzureFundamentals (AZ-900)    
-✔ Oracle Cloud Infrastructure 2025 Certified (Architect Associate)  
-✔ Cisco Introduction to Cybersecurity   
+✔ AWSCloudPractitioner (CLF-CO2)
+✔ MicrosoftAzureFundamentals (AZ-900)   
+✔ Oracle Cloud Infrastructure 2025 Certified (Architect Associate) 
+✔ Cisco Introduction to Cybersecurity
 
 ---
 
